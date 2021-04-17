@@ -1,0 +1,7 @@
+F:\Codes\GitHub\Souliflame\Programmers\Programmers\bin\Debug\Programmers.exe.config
+F:\Codes\GitHub\Souliflame\Programmers\Programmers\bin\Debug\Programmers.exe
+F:\Codes\GitHub\Souliflame\Programmers\Programmers\bin\Debug\Programmers.pdb
+F:\Codes\GitHub\Souliflame\Programmers\Programmers\obj\Debug\Programmers.csprojAssemblyReference.cache
+F:\Codes\GitHub\Souliflame\Programmers\Programmers\obj\Debug\Programmers.csproj.CoreCompileInputs.cache
+F:\Codes\GitHub\Souliflame\Programmers\Programmers\obj\Debug\Programmers.exe
+F:\Codes\GitHub\Souliflame\Programmers\Programmers\obj\Debug\Programmers.pdb
